@@ -10,6 +10,9 @@ These are the Python and PyGame versions I used to make this game:
 - Python Version 3.7.4
 - Pygame Version 1.9.6
 
+When you have everything installed, run it from your console (make sure the directory is set right) and 
+run the main.py file.
+
 Check out the Bookmark Adventures gameplay on this YouTube video!
 
 https://www.youtube.com/watch?v=sbz5yBXnuEk&feature=youtu.be
