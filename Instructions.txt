@@ -1,0 +1,17 @@
+Welcome to the Bookmark Adventures videogame!
+
+Thank you for downloading Bookmark Adventures. In order to play the game, you must have Python and PyGame
+installed.
+In order to install Python, follow this link to get started: https://www.python.org/downloads/
+In order to install Pygame: just type "pip install pygame" on your console.
+
+These are the Python and PyGame versions I used to make this game:
+
+- Python Version 3.7.4
+- Pygame Version 1.9.6
+
+Check out the Bookmark Adventures gameplay on this YouTube video!
+
+https://www.youtube.com/watch?v=sbz5yBXnuEk&feature=youtu.be
+
+© Copyright Ana Vassallo. All rights reserved.
